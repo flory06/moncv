@@ -1,1 +1,33 @@
 
+img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    padding: 5px 5px 5px 5px;
+
+}
+div
+{
+    color: darkslateblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+}    
+.titres
+{
+    color: darkblue;
+    text-decoration-style: wavy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    
+}
+li
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+
+}
+#form
+{
+    text-align: center;
+    color: darkslategray;
+}
