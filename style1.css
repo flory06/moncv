@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    background-color: floralwhite;
+    
+}
+fieldset
+{
+    background-color: peachpuff;
+    border-radius: 20px/10px;
+}
+#flo
+{
+    border-style: groove;;
+}
+textarea
+{
+    border-radius: groove;
+}
